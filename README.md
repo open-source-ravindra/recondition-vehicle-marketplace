@@ -1,7 +1,5 @@
 # recondition-vehicle-marketplace
 
-[Badges: e.g., Laravel Version, PHP Version, License, Build Status (if you add tests later)]
-
 A powerful, open-source Laravel-based marketplace platform designed specifically for reconditioning houses and resellers to manage and sell bikes and automobiles online.
 
 ## ✨ Features
@@ -17,13 +15,12 @@ A powerful, open-source Laravel-based marketplace platform designed specifically
 
 ## 🚀 Live Demo
 
-[If you have a hosted demo, LINK IT HERE]
 **Admin Credentials:** admin@example.com / password
 **Dealer Credentials:** dealer@example.com / password
 
 ## 📋 Prerequisites
 
-*   PHP >= 8.1
+*   PHP >= 8.2
 *   Composer
 *   Node.js & NPM (if using frontend scaffolding)
 *   MySQL/PostgreSQL/SQLite
@@ -32,7 +29,7 @@ A powerful, open-source Laravel-based marketplace platform designed specifically
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/open-source-ravindra/recondition-vehicle-marketplace
     cd your-repo-name
     ```
 
