@@ -67,4 +67,4 @@ A powerful, open-source Laravel-based marketplace platform designed specifically
 *   **Dealer/Reconditioner:** `dealer@example.com` / `password`
 *   **Buyer:** `buyer@example.com` / `password`
 
-## 📁 Project Structure (High-Level)
+
